@@ -1,6 +1,5 @@
 # xixi
-<<<<<<< HEAD
-
+sdfsdfsdfsd
 ## Project setup
 ```
 npm install
